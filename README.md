@@ -23,7 +23,9 @@ This is how the folder structure looks like
 
 2. Install dependencies
 
-        pip install torch,torchvision,opencv-python torchvision, Pillow, numpy
+        pip install -r requirements.txt
+
+
 
 3. Dataset Preparation
 
