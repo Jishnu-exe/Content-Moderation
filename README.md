@@ -19,7 +19,7 @@ This is how the folder structure looks like
 
         git clone https://github.com/Jishnu-exe/Content-Moderation.git
 
-        cd image-content-moderation
+        cd Content-Moderation
 
 2. Install dependencies
 
