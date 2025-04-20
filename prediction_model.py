@@ -88,4 +88,5 @@ def predict_and_annotate(image_path):
         print(f"Error processing image: {e}")
 
 # === Try it ===
-predict_and_annotate(r"C:\Users\jdpra\Downloads\IMG_20240721_194622082.jpg")
+#Replace the absolute path of the image with your own image (D:\Pics\safe.jpg)
+predict_and_annotate(r"D:\PICS\safe.jpg")     
