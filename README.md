@@ -48,5 +48,9 @@ This is how the folder structure looks like
 
     If unsafe content is detected, a red box and label will be drawn on the image, mentions if its either safe or unsafe, shows the confidence of the prediction and also displays the confidence output on the terminal.
 
+    Note: Please upload your own image by modifying the absolute path of the image (91st line)
+
+    ![alt text](image-1.png)
+
  
 
