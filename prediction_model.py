@@ -14,7 +14,7 @@ try:
         torch.nn.Dropout(0.4),
         torch.nn.Linear(256, 2)
     )
-    model.load_state_dict(torch.load("D:\\RTP\\Content Moderation\\model\\moderation_model.pth", map_location='cpu'))
+    model.load_state_dict(torch.load("model/moderation_model.pth", map_location='cpu'))
     model.eval()
     print("Model loaded successfully.")
 except FileNotFoundError as e:
